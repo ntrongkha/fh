@@ -1,6 +1,6 @@
 # FH
 
-A deadly simple tool to find a file name by its hash.
+A deadly simple tool to find a file by its hash.
 
 ```
   -algo string
